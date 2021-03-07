@@ -1,0 +1,9 @@
+Package: com.eamontracey.tiptaptime
+Name: TipTapTime
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Toggle date/time views in the status bar
+Maintainer: Eamon Tracey
+Author: Eamon Tracey
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 13.0), com.eamontracey.nomaepreferences
